@@ -1,3 +1,5 @@
+SEE LINK: https://learn.microsoft.com/en-us/entra/external-id/customers/sample-single-page-app-react-sign-in
+
 ---
 page_type: sample
 languages:
